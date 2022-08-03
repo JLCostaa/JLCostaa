@@ -1,7 +1,10 @@
-### Heloo !!! Welcome to my Profile 👋
+### Heloo! I'm Jullia                                                        
+  I do open source :)
 
-👩🏻‍💻- Computer science student-IFG   
-📫- Jullia.assisc@gmail.com
+**About me**
+
+- 👩🏻‍💻 Computer science student-IFG   
+
 
 ##
 <a href="https://github.com/JLCostaa">
