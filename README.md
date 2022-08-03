@@ -6,8 +6,8 @@
 ##
 <a href="https://github.com/JLCostaa">
 <div style="display: inline_block" align ="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLCostaa&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLCostaa&layout=compact&theme=dracula" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JLCostaa&theme=dracula" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLCostaa&layout=compact&theme=dracula" />
 </div>
 
 
