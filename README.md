@@ -40,6 +40,9 @@
 <p align="center"> Contador de visitas </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JLCostaa/count.svg" /></p>
 
+ ![Snake animation](https://github.com/JLCostaa/JLCostaa/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 <!--
 **JLCostaa/JLCostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
