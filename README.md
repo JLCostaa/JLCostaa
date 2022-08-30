@@ -1,4 +1,4 @@
-### Heloo! I'm Jullia  -- I do open source :)
+### Heloo! I'm Jullia  :)
 
 **About me**
 
